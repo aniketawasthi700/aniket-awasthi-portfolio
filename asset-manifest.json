@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/aniket-awasthi-portfolio/static/css/main.2c02f6bb.css",
+    "main.js": "/aniket-awasthi-portfolio/static/js/main.6f8ea60b.js",
+    "static/js/453.438d9e50.chunk.js": "/aniket-awasthi-portfolio/static/js/453.438d9e50.chunk.js",
+    "static/media/Aniket software_engineer_intern certificate.pdf": "/aniket-awasthi-portfolio/static/media/Aniket software_engineer_intern certificate.4f7f6407e04cffa3fda6.pdf",
+    "static/media/java_basic certificate.pdf": "/aniket-awasthi-portfolio/static/media/java_basic certificate.c0a75a45b67cef693e3a.pdf",
+    "static/media/profile.jpg": "/aniket-awasthi-portfolio/static/media/profile.6888d20b7e473a4f222a.jpg",
+    "static/media/Aniket Awasthi TCS Certificate.pdf": "/aniket-awasthi-portfolio/static/media/Aniket Awasthi TCS Certificate.7c628bca7b4e2b30983f.pdf",
+    "static/media/fa-solid-900.ttf": "/aniket-awasthi-portfolio/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/Certificate_3.pdf": "/aniket-awasthi-portfolio/static/media/Certificate_3.6a21ba54557a5da4bee4.pdf",
+    "static/media/Certificate_4.pdf": "/aniket-awasthi-portfolio/static/media/Certificate_4.9af27b50af0d525c9260.pdf",
+    "static/media/fa-brands-400.ttf": "/aniket-awasthi-portfolio/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/aniket-awasthi-portfolio/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/INFOSYS Reactjs course.pdf": "/aniket-awasthi-portfolio/static/media/INFOSYS Reactjs course.b7b79a6e966b28c0286c.pdf",
+    "static/media/fa-brands-400.woff2": "/aniket-awasthi-portfolio/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/Aniket_FResume_7.pdf": "/aniket-awasthi-portfolio/static/media/Aniket_FResume_7.41431fc02cbc08a65975.pdf",
+    "static/media/fa-regular-400.ttf": "/aniket-awasthi-portfolio/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/fa-regular-400.woff2": "/aniket-awasthi-portfolio/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/network-background.png": "/aniket-awasthi-portfolio/static/media/network-background.0155844c20f3fb081e79.png",
+    "static/media/fa-v4compatibility.ttf": "/aniket-awasthi-portfolio/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/aniket-awasthi-portfolio/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/aniket-awasthi-portfolio/index.html",
+    "main.2c02f6bb.css.map": "/aniket-awasthi-portfolio/static/css/main.2c02f6bb.css.map",
+    "main.6f8ea60b.js.map": "/aniket-awasthi-portfolio/static/js/main.6f8ea60b.js.map",
+    "453.438d9e50.chunk.js.map": "/aniket-awasthi-portfolio/static/js/453.438d9e50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c02f6bb.css",
+    "static/js/main.6f8ea60b.js"
+  ]
+}
