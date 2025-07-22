@@ -1,0 +1,62 @@
+/* Contact.css */
+
+.contact-section {
+  background-color: #1a1a2e; /* Dark background to match theme */
+  color: #f0f0f0; /* Light text color */
+  padding: 60px 20px;
+  text-align: center; /* Center all inline/inline-block content */
+  min-height: 50vh; /* Ensure it has some height */
+  display: flex; /* Use flexbox for vertical centering */
+  flex-direction: column; /* Stack items vertically */
+  align-items: center; /* Horizontally center items */
+  justify-content: center; /* Vertically center items */
+}
+
+.contact-section h2 {
+  font-size: 2.5rem;
+  margin-bottom: 40px;
+  color: #00ffff; /* Cyan heading color */
+}
+
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  gap: 25px; /* Space between contact items */
+  margin-top: 20px;
+}
+
+.contact-item {
+  display: flex;
+  align-items: center; /* Vertically align icon and text */
+  justify-content: center; /* Horizontally center each item */
+  font-size: 1.2rem;
+  text-decoration: none; /* Remove underline for links */
+  color: #f0f0f0; /* Default link color */
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.contact-item:hover {
+  color: #00ffff; /* Cyan on hover */
+  transform: translateY(-3px); /* Slight lift effect */
+}
+
+.contact-item svg {
+  margin-right: 15px; /* Space between icon and text */
+  min-width: 24px; /* Ensure icon doesn't shrink */
+  min-height: 24px; /* Ensure icon doesn't shrink */
+  color: #00ffff; /* Cyan icon color */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .contact-section h2 {
+    font-size: 2rem;
+  }
+  .contact-item {
+    font-size: 1rem;
+  }
+  .contact-item svg {
+    width: 20px;
+    height: 20px;
+  }
+}

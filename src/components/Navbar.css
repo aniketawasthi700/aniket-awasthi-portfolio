@@ -1,0 +1,24 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  background: #002d3a;
+  padding: 10px 0;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar button {
+  background: cyan;
+  border: none;
+  padding: 10px 20px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background 0.3s;
+}
+
+.navbar button:hover {
+  background: #00ffff;
+}
